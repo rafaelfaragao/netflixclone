@@ -10,3 +10,25 @@ body {
   margin: 0;
   font-family: "Roboto", sans-serif;
 }
+
+.lists {
+  margin-top: -120px;
+}
+
+footer {
+  margin: 50px 0;
+  text-align: center;
+}
+
+footer span {
+  font-weight: bold;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+
+footer a:link,
+a:visited {
+  color: #b22222;
+}
